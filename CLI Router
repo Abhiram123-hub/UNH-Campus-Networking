@@ -1,0 +1,40 @@
+System Bootstrap, Version 15.1(4)M4, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 2010 by cisco Systems, Inc.
+Total memory size = 512 MB - On-board = 512 MB, DIMM0 = 0 MB
+CISCO1941/K9 platform with 524288 Kbytes of main memory
+Main memory is configured to 64/-1(On-board/DIMM0) bit mode with ECC disabled
+
+Readonly ROMMON initialized
+
+program load complete, entry point: 0x80803000, size: 0x1b340
+program load complete, entry point: 0x80803000, size: 0x1b340
+
+IOS Image Load Test
+___________________
+Digitally Signed Release Software
+program load complete, entry point: 0x81000000, size: 0x2bb1c58
+Self decompressing the image :
+######################### [OK]
+Smart Init is enabled
+smart init is sizing iomem
+                  TYPE      MEMORY_REQ
+           HWIC Slot 1      0x00200000     Onboard devices &
+          buffer pools      0x01E8F000
+-----------------------------------------------
+                TOTAL:      0x0268F000
+Rounded IOMEM up to: 40Mb.
+Using 6 percent iomem. [40Mb/512Mb]
+
+              Restricted Rights Legend
+Use, duplication, or disclosure by the Government is
+subject to restrictions as set forth in subparagraph
+(c) of the Commercial Computer Software - Restricted
+Rights clause at FAR sec. 52.227-19 and subparagraph
+(c) (1) (ii) of the Rights in Technical Data and Computer
+Software clause at DFARS sec. 252.227-7013.
+           cisco Systems, Inc.
+           170 West Tasman Drive
+           San Jose, California 95134-1706
+
+Cisco IOS Software, C1900 Software (C1900-UNIVERSALK9-M), Version 15.1(4)M4, RELEASE SOFTWARE (fc2)
