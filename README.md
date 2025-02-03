@@ -21,7 +21,7 @@ To open and test this project:
    ```sh
    git clone https://github.com/yourusername/lab5-network-project.git
    ```  
-3. Open **LAB5_PROJECT.pkt** in Cisco Packet Tracer.
+3. Open **campus networking.pkt** in Cisco Packet Tracer.
 4. Verify network connectivity using:
    ```sh
    ping <destination IP>
