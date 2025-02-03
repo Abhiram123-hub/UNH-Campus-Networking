@@ -1,0 +1,27 @@
+Digitally Signed Release Software
+program load complete, entry point: 0x81000000, size: 0x2bb1c58
+Self decompressing the image :
+######################### [OK]
+Smart Init is enabled
+smart init is sizing iomem
+                  TYPE      MEMORY_REQ
+           HWIC Slot 1      0x00200000     Onboard devices &
+          buffer pools      0x01E8F000
+-----------------------------------------------
+                TOTAL:      0x0268F000
+Rounded IOMEM up to: 40Mb.
+Using 6 percent iomem. [40Mb/512Mb]
+
+Cisco IOS Software, C1900 Software (C1900-UNIVERSALK9-M), Version 15.1(4)M4, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+
+Compiled Thurs 5-July-24 15:41 by abhiram
+Image text-base: 0x2100F918, data-base: 0x24729040
+
+Cisco CISCO1941/K9 (revision 1.0) with 491520K/32768K bytes of memory.
+Processor board ID FTX152400KS
+2 Gigabit Ethernet interfaces
+2 Low-speed serial(sync/async) network interface(s)
+DRAM configuration is 64 bits wide with parity disabled.
+255K bytes of non-volatile configuration memory.
+249856K bytes of ATA System CompactFlash 0 (Read/Write)
