@@ -5,7 +5,7 @@ Self decompressing the image :
 Smart Init is enabled
 smart init is sizing iomem
                   TYPE      MEMORY_REQ
-           HWIC Slot 1      0x00200000     Onboard devices &
+           HWIC Slot 1      0x00200000    Onboard devices &
           buffer pools      0x01E8F000
 -----------------------------------------------
                 TOTAL:      0x0268F000
